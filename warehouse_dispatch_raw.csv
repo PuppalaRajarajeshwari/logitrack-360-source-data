@@ -1,0 +1,6 @@
+DeliveryID,VehicleType,DispatchTimestamp,RouteDistance_KM,TotalPayment,Status
+DEL901,Heavy Truck,2026-06-01 08:30:00,145.5,1200,Delivered
+DEL902,Mini Van,2026-06-01 09:15:00,42.0,350,Delivered
+DEL903,Heavy Truck,2026-06-02 06:00:00,210.3,ERROR_UNKNOWN,In Transit
+DEL904,PickUp,2026-06-02 11:45:00,88.2,600,Delayed
+DEL905,Mini Van,2026-06-03 14:00:00,15.1,120,Delivered
